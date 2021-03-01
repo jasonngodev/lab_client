@@ -1,0 +1,12 @@
+{
+  "aih_hospital": "Bệnh viện AIH",
+  "english" : "Tiếng Anh",
+  "vietnamese" : "Tiếng Việt",
+  "users" : "Người dùng",
+  "login" : "Đăng nhập",
+  "desc_login":"Đăng nhập với tài khoản của bạn",
+  "forgot_password": "Quên mật khẩu?",
+  "login_now" : "Đăng nhập",
+  "home":"Trang chủ",
+  "dashboard" : "Trình điều khiển"
+}

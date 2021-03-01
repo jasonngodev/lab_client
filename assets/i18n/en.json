@@ -1,0 +1,12 @@
+{
+  "aih_hospital": "AIH",
+  "english" : "English",
+  "vietnamese" : "Vietnamese",
+  "users" : "Users",
+  "login" : "Login",
+  "desc_login":"Sign In to your account",
+  "forgot_password": "Forgot password?",
+  "login_now" : "Login Now",
+  "home":"Home",
+  "dashboard" : "Dashboard"
+}
